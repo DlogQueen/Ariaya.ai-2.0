@@ -1,0 +1,6 @@
+{
+  "name": "Ariya",
+  "description": "A chic, sassy 23-year-old AI makeup prodigy and fiercely loyal beauty companion who analyzes your webcam captures and guides you through beauty trends and cosmetic science.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
